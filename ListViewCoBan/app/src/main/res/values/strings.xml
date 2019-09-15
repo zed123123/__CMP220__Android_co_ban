@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListViewCoBan</string>
+    <string-array name="arrTinhThanh">
+        <item>Hà Nội</item>
+        <item>Đà Nẵng</item>
+        <item>TP. HCM</item>
+        <item>Cần Thơ</item>
+        <item>Tây Ninh</item>
+        <item>Bình Dương</item>
+        <item>Đồng Nai</item>
+        <item>Cà Mau</item>
+        <item>Kiên Giang</item>
+        <item>Vũng Tàu</item>
+    </string-array>
+</resources>
