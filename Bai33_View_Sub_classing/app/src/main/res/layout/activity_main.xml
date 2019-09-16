@@ -8,14 +8,9 @@
     tools:context=".MainActivity" >
 
     <Button
-        android:id="@+id/btnMove"
-        android:layout_width="wrap_content"
+        android:id="@+id/btnGioiThieu"
+        android:onClick="xyLyMoGioiThieu"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Click here!" />
-
-    <Button
-        android:id="@+id/btnThoat"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Thoát" />
+        android:text="Giới thiệu" />
 </LinearLayout>
