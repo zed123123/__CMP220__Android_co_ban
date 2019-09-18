@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multilingue</string>
+    <string name="strUsername">Nom d\'utilisateur:</string>
+    <string name="strPassword">Mot de passe:</string>
+    <string name="strUsernameHint">Nom d\'utilisateur...</string>
+    <string name="strPasswordHint">Mot de passe...</string>
+    <string name="strLoginButton">Se connecter</string>
+    <string name="strExitButton">Sortie</string>
+</resources>

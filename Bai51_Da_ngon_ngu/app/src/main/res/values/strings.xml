@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="strUsername">Username:</string>
+    <string name="strPassword">Password:</string>
+    <string name="strUsernameHint">Username...</string>
+    <string name="strPasswordHint">Password...</string>
+    <string name="strLoginButton">Login</string>
+    <string name="strExitButton">Exit</string>
+
+</resources>
