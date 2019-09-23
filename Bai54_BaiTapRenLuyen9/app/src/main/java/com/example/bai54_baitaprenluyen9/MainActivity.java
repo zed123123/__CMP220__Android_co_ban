@@ -39,7 +39,23 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        imgXoa.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                xuLyXoa();
+            }
+        });
 
+
+    }
+
+    private void xuLyXoa() {
+        for(int i = nhanVienAdapter.getCount()-1; i >= 0; i--){
+            NhanVien nv = nhanVienAdapter.getItem(i);
+            if(nv.isXoa()){
+                nhanVienAdapter.remove(nv);
+            }
+        }
     }
 
     private void clearText() {
